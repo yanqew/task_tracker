@@ -19,3 +19,5 @@
    ```bash
    git clone [https://github.com/yanqew/task_tracker.git](https://github.com/yanqew/task_tracker.git)
    python src/main.py
+
+Создан по требованию: https://roadmap.sh/projects/task-tracker
